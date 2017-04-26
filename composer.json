@@ -1,0 +1,22 @@
+{
+    "name": "pagocommerce/pago",
+	"type": "project",
+    "description": "paGO CMS",
+	"license": "GPL-3.0",
+    "authors": [
+		{
+            "name": "Steven Pignataro",
+			"homepage": "http://corephp.com",
+			"role": "CEO"
+        },
+        {
+            "name": "Jason Tolhurst",
+			"homepage": "http://jasontolhurst.com",
+			"role": "Lead Developer"
+        }
+    ],
+	
+	"require": {
+		"php": ">=7.0"
+	}
+}
